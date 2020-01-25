@@ -105,6 +105,9 @@ footer .social-media a [class^="flaticon-"]:before{color: white;font-size: 16px;
 
   .meals{background-color:#f6f7f8;}
 
+  .meals .meal .meal-info h3 {font-size: 18px;height: 40px;}
+  .meals .meal .meal-info .price{font-size: 15px;}
+
   .ordering{padding: 30px 15px 50px;background-color: var(--second);}
   .ordering button{width: 100%;font-size: 20px;color: white;font-weight: bold;background-color: var(--primary);border-radius: 15px;display: block;padding: 14px 10px;text-transform: uppercase;}
 } 
