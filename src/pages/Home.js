@@ -208,7 +208,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-6 pl-2 my-2">
+                                    <div className="col-6 pr-2 my-2">
                                         <div className="meal d-block d-md-flex align-items-center">
                                             <img src={Meal4} alt="Meal" />
                                             <div className="meal-info px-3 py-3 px-md-3 py-md-0">
@@ -274,7 +274,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-6 pl-2 my-2">
+                                    <div className="col-6 pr-2 my-2">
                                         <div className="meal d-block d-md-flex align-items-center">
                                             <img src={Meal4} alt="Meal" />
                                             <div className="meal-info px-3 py-3 px-md-3 py-md-0">
@@ -340,7 +340,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-6 pl-2 my-2">
+                                    <div className="col-6 pr-2 my-2">
                                         <div className="meal d-block d-md-flex align-items-center">
                                             <img src={Meal4} alt="Meal" />
                                             <div className="meal-info px-3 py-3 px-md-3 py-md-0">
@@ -406,7 +406,7 @@ function Home() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="col-6 pl-2 my-2">
+                                    <div className="col-6 pr-2 my-2">
                                         <div className="meal d-block d-md-flex align-items-center">
                                             <img src={Meal4} alt="Meal" />
                                             <div className="meal-info px-3 py-3 px-md-3 py-md-0">
@@ -428,6 +428,10 @@ function Home() {
                                     </div>
                                 </div>
                             </div>
+                        </div>
+
+                        <div className="ordering row">
+                            <button type="button">Start ordring</button>
                         </div>
                     </div>
 
